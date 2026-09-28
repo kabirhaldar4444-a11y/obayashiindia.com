@@ -55,7 +55,7 @@ export default function Footer() {
                 </div>
                 <div className="flex items-center gap-1.5">
                   <Mail size={11} className="text-[var(--primary-red)]" />
-                  <a href="mailto:hrd@obayashi.org" className="hover:text-white transition-colors">hrd@obayashi.org</a>
+                  <a href="mailto:hrd@obayashiindia.com" className="hover:text-white transition-colors">hrd@obayashiindia.com</a>
                 </div>
               </div>
             </div>
@@ -115,7 +115,7 @@ export default function Footer() {
                 </li>
                 <li className="flex items-center gap-1.5">
                   <Mail size={11} className="text-[var(--primary-red)] shrink-0" />
-                  <a href="mailto:hrd@obayashi.org" className="footer-link">hrd@obayashi.org</a>
+                  <a href="mailto:hrd@obayashiindia.com" className="footer-link">hrd@obayashiindia.com</a>
                 </li>
               </ul>
 
